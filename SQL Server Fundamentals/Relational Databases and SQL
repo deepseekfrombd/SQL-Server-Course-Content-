@@ -1,4 +1,4 @@
-**##• Relational databases overview**
+##• Relational databases overview
 A relational database organizes data into tables, where each table represents an entity, and rows represent instances of that entity. Columns define attributes with specific data types. SQL Server is a relational database management system (RDBMS) developed by Microsoft, used for storing, retrieving, and managing structured data.
 **Key Concepts:
   •	Tables: Store data in rows and columns.
