@@ -1,0 +1,16 @@
+**##• Relational databases overview**
+A relational database organizes data into tables, where each table represents an entity, and rows represent instances of that entity. Columns define attributes with specific data types. SQL Server is a relational database management system (RDBMS) developed by Microsoft, used for storing, retrieving, and managing structured data.
+**Key Concepts:
+  •	Tables: Store data in rows and columns.
+  •	Relationships: Tables are linked using keys (primary and foreign keys).
+  •	Schema: Defines the structure of the database (tables, columns, constraints).
+  •	Normalization: Process to eliminate redundancy and ensure data integrity.
+Example: A database for a bookstore might have tables for Books, Authors, and Orders, linked by keys to maintain relationships.
+
+  •	SQL syntax & DDL/DML operations
+  •	Data types, constraints, primary/foreign keys
+  •	Joins (INNER, LEFT, RIGHT, FULL)
+  •	Subqueries and common table expressions (CTE)
+  •	Views and indexes
+  •	Transactions & ACID properties
+✅ Freelance Relevance: Data cleaning, custom reporting, database support tasks
